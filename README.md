@@ -33,6 +33,8 @@
 
 * sub skills<br>
 
-[![My Skills](https://skillicons.dev/icons?i=windows,powershell,linux,mint,neovim,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,powershell,linux,mint,neovim,py,git,github,gmail)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,ts,git,github,gmail)](https://skillicons.dev)
+* study skills.........<br>
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,ts)](https://skillicons.dev)
