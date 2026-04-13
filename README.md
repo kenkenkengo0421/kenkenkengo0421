@@ -9,13 +9,13 @@
 <br>
 <br>
 
-### 機械学習　Machine Learning Projects
+### 機械学習　(Machine Learning)
 
 * [Jリーグ勝敗予測 (signate-jleague )](https://github.com/kenkenkengo0421/signate-jleague)
 * [スパムメール分類 (signate-spammail)](https://github.com/kenkenkengo0421/signate-spammail)
 * [タイタニック生存予測 (signate-titanic)](https://github.com/kenkenkengo0421/signate-titanic)
 
-### webデザイン学習 HTML CSS
+### webデザイン学習 (HTML CSS webdesign practice)
 
 * [学習用サイト(HTML CSS practice site)](https://github.com/kenkenkengo0421/sample_html_css)
 
