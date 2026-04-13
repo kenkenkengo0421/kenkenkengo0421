@@ -35,6 +35,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=windows,powershell,linux,mint,neovim,py,git,github,gmail)](https://skillicons.dev)
 
-* study skills.........<br>
+* studying skills.........<br>
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,ts,js)](https://skillicons.dev)
