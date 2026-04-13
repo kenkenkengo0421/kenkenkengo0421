@@ -1,12 +1,30 @@
 ## Hi 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/PsychrometricChart-SeaLevel-SI-jpn.jpg/960px-PsychrometricChart-SeaLevel-SI-jpn.jpg" width="400">
+
 ### Professional Skills
-- **HVAC Control Engineer**
-- **DDC Programming for HVAC / BAS**
+
+- 空調自動制御エンジニア （HVAC Control Engineer）
+- DDCプログラム設計（DDC Programming）
 <br>
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/PsychrometricChart-SeaLevel-SI-jpn.jpg/960px-PsychrometricChart-SeaLevel-SI-jpn.jpg" width="400">
+### 機械学習　Machine Learning Projects
+
+* [Jリーグ勝敗予測 (signate-jleague )](https://github.com/kenkenkengo0421/signate-jleague)
+* [スパムメール分類 (signate-spammail)](https://github.com/kenkenkengo0421/signate-spammail)
+* [タイタニック生存予測 (signate-titanic)](https://github.com/kenkenkengo0421/signate-titanic)
+
+### webデザイン学習 HTML CSS
+
+* [学習用サイト(HTML CSS practice site)](https://github.com/kenkenkengo0421/sample_html_css)
+
+  
+<br>
+<br>
+
+
+
 
 * main skills<br>
 
