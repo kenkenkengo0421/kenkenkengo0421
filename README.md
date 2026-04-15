@@ -14,6 +14,12 @@
 ![PLC](https://img.shields.io/badge/ddc-PLC_keyence-005571?style=for-the-badge&logo=probot&logoColor=white)
 ![PLC](https://img.shields.io/badge/ddc-PLC_Mitsubishi-ff500b?style=for-the-badge&logo=probot&logoColor=white)<br>
 
+* [熱量(plc_fb_ThermalLoadCalc)](https://github.com/kenkenkengo0421/plc_fb_ThermalLoadCalc)
+* [加湿(plc_fb_Humidification)](https://github.com/kenkenkengo0421/plc_fb_Humidification)
+* [コンプレッサ(plc_fb_Heat-pump-compressor)](https://github.com/kenkenkengo0421/plc_fb_Heat-pump-compressor)
+* [PID(plc_fb_pid)](https://github.com/kenkenkengo0421/plc_fb_pid)
+
+  
 * sub skills<br>
 
 [![My Skills](https://skillicons.dev/icons?i=windows,powershell,linux,mint,neovim,py,git,github,gmail)](https://skillicons.dev)
