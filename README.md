@@ -8,8 +8,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/PsychrometricChart-SeaLevel-SI-jpn.jpg/960px-PsychrometricChart-SeaLevel-SI-jpn.jpg" width="400">
 
-* 空調自動制御エンジニア （HVAC Control Engineer）
-* DDCプログラム設計（DDC Programming）
+
 * main skills<br>
 
 ![PLC](https://img.shields.io/badge/ddc-PLC_keyence-005571?style=for-the-badge&logo=probot&logoColor=white)
