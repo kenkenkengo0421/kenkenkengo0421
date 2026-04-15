@@ -6,7 +6,6 @@
 
 # ＳＫＩＬＬ
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/PsychrometricChart-SeaLevel-SI-jpn.jpg/960px-PsychrometricChart-SeaLevel-SI-jpn.jpg" width="400">
 
 
 * main skills<br>
