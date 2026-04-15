@@ -25,7 +25,7 @@
 
 * sub skills<br>
 
-[![My Skills](https://skillicons.dev/icons?i=windows,powershell,linux,mint,neovim,py,git,github,gmail)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,powershell,linux,mint,debian,neovim,py,git,github,gmail)](https://skillicons.dev)
 
 * studying skills<br>
 
