@@ -38,7 +38,7 @@
   
 >### ツール(Self-made Tool)
 >
->[露点温度演算ツール(Dew Point Calculator)](https://github.com/kenkenkengo0421/dew-point-temperature)
+>[露点温度計算(Dew Point Calculator)](https://github.com/kenkenkengo0421/dew-point-temperature)
 
 <br>
 <br>
