@@ -28,7 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=css,html,ts,js)](https://skillicons.dev)
 
 
-<br>
+
 <br>
 <br>
 
@@ -39,7 +39,7 @@
 >### ツール(Self-made Tool)
 >
 >[露点温度演算ツール(Dew Point Calculator)](https://github.com/kenkenkengo0421/dew-point-temperature)
-<br>
+
 <br>
 <br>
 
@@ -51,13 +51,13 @@
 >
 >[タイタニック生存予測 (signate-titanic)](https://github.com/kenkenkengo0421/signate-titanic)
 
-<br>
+
 <br>
 <br>
 
 >### webデザイン学習 (HTML CSS webdesign practice)
 >
 >[学習用サイト(HTML CSS practice site)](https://github.com/kenkenkengo0421/sample_html_css)c
-<br>
+
 <br>
 <br>
