@@ -7,7 +7,8 @@
 <div align="left">
   <img src="logon-removebg-preview.png" width="200" alt="HVAC Auto Control Logo">
 </div>
-
+<br>
+<br>
 
 ![main_skills](https://img.shields.io/badge/main%20skills-a2a2ad)
 
