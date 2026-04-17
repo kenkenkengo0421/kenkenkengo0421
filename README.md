@@ -48,7 +48,7 @@
 
 >### ライブラリ公式日本語訳版
 >
->[Type Script](https://github.com/kenkenkengo0421/reference_ja)
+>[Java(Type) Script](https://github.com/kenkenkengo0421/reference_ja)
 
 <br>
 <br>
