@@ -1,7 +1,7 @@
 
 
-<div align="center">
-  <img src="logob.png" width="1000" alt="HVAC Auto Control Logo">
+<div align="left">
+  <img src="logog.png" width="300" alt="HVAC Auto Control Logo">
 </div>
 
 <br>
