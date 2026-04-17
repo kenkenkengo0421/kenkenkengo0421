@@ -39,7 +39,7 @@
 
  ![](https://img.shields.io/badge/github-ＲＥＰＯＳＩＴＯＲＹ-a2a2ad?logo=github)
   
->### ツール(Self-made Tool)
+>### ツール(Selfmade Tool)
 >
 >[露点温度計算(Dew Point Calculator)](https://github.com/kenkenkengo0421/dew-point-temperature)
 
