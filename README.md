@@ -46,12 +46,7 @@
 <br>
 <br>
 
->### ライブラリ公式日本語訳版
->
->[Java(Type) Script](https://github.com/kenkenkengo0421/reference_ja)
 
-<br>
-<br>
 
 >### 機械学習　(Machine Learning)
 >
@@ -71,3 +66,7 @@
 
 <br>
 <br>
+
+
+[...](https://github.com/kenkenkengo0421/reference_ja)
+
