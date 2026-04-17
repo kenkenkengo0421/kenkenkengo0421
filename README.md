@@ -46,6 +46,13 @@
 <br>
 <br>
 
+>### ライブラリ公式日本語訳版
+>
+>[library](https://github.com/kenkenkengo0421/reference_ja)
+
+<br>
+<br>
+
 >### 機械学習　(Machine Learning)
 >
 >[Jリーグ勝敗予測 (signate-jleague )](https://github.com/kenkenkengo0421/signate-jleague)
