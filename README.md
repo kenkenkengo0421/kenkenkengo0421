@@ -22,13 +22,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=windows,powershell,linux,mint,debian,neovim,py,git,github,gmail)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=css,html,ts,js)](https://skillicons.dev)
+
 <br>
 <br>
 
 
 ![main_skills](https://img.shields.io/badge/studying%20skills-a2a2ad)
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,ts,js)](https://skillicons.dev)
+![PLC](https://img.shields.io/badge/ddc-PLC_CODESYS-lightblue?style=for-the-badge&logo=probot&logoColor=white)
 
 
 
