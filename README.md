@@ -49,18 +49,7 @@
 >
 >[中央監視ポイント積算ツール](https://github.com/kenkenkengo0421/point_list_calc)
 >
-<br>
-<br>
 
-
-
->### 機械学習　(Machine Learning)
->
->[Jリーグ勝敗予測 (signate-jleague )](https://github.com/kenkenkengo0421/signate-jleague)
->
->[スパムメール分類 (signate-spammail)](https://github.com/kenkenkengo0421/signate-spammail)
->
->[タイタニック生存予測 (signate-titanic)](https://github.com/kenkenkengo0421/signate-titanic)
 
 
 <br>
