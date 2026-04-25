@@ -47,7 +47,7 @@
 >
 >[PID変換(Azbil to KV PID Converter)](https://github.com/kenkenkengo0421/azbil_to_keyence)
 >
->[中央監視ポイント積算ツール](https://github.com/kenkenkengo0421/point_list_calc)
+>[機器数量変換(Equipment Quantity Conversion)](https://github.com/kenkenkengo0421/point_list_calc)
 >
 
 
@@ -55,9 +55,9 @@
 <br>
 <br>
 
->### webデザイン学習 (HTML CSS webdesign practice)
+>### webデザイン (HTML CSS webdesign practice)
 >
->[学習用サイト(HTML CSS practice site)](https://github.com/kenkenkengo0421/sample_html_css)c
+>[自作サンプル(HTML CSS sample site)](https://github.com/kenkenkengo0421/sample_html_css)
 
 <br>
 <br>
