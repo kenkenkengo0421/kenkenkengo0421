@@ -59,10 +59,17 @@
 
 >### webデザイン (HTML CSS webdesign practice)
 >
->[自作サンプル(HTML CSS sample site)](https://github.com/kenkenkengo0421/sample_html_css)
+>[サンプル(HTML CSS sample site)](https://github.com/kenkenkengo0421/sample_html_css)
 
 <br>
 <br>
+
+>### クラス_メソッド(myclass method)
+>
+>[class method plcfb](https://github.com/kenkenkengo0421/mytool_PLC_CODE_/blob/main/README.md)
+
+
+
 
 
 [...](https://github.com/kenkenkengo0421/reference_ja)
