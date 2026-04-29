@@ -59,7 +59,9 @@
 
 >### webデザイン (HTML CSS webdesign practice)
 >
->[サンプル(HTML CSS sample site)](https://github.com/kenkenkengo0421/sample_html_css)
+>[サンプルページ(HTML CSS sample)](https://github.com/kenkenkengo0421/sample_html_css)
+>
+>[Excel関数ページ(excel function)](https://github.com/kenkenkengo0421/excel)　※編集中
 
 <br>
 <br>
