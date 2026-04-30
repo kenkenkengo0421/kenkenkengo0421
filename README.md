@@ -4,9 +4,7 @@
 >
 ># ＰＲＯＦＩＬＥ
 >
-<div align="left">
-  <img src="logon-removebg-preview.png" width="200" alt="HVAC Auto Control Logo">
-</div>
+
 <br>
 <br>
 
@@ -28,9 +26,7 @@
 <br>
 
 
-![main_skills](https://img.shields.io/badge/studying%20skills-a2a2ad)
 
-![PLC](https://img.shields.io/badge/ddc-PLC_CODESYS-lightblue?style=for-the-badge&logo=probot&logoColor=white)
 
 
 
