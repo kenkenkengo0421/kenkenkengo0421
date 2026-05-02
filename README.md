@@ -57,7 +57,7 @@
 >
 >[サンプルページ(HTML CSS sample)](https://github.com/kenkenkengo0421/sample_html_css)
 >
->[Excel関数ページ(excel function)](https://github.com/kenkenkengo0421/excel)　※編集中
+>[Excel関数ページ(excel function)](https://github.com/kenkenkengo0421/excel)
 
 <br>
 <br>
