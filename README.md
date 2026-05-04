@@ -53,12 +53,17 @@
 >[機器数量変換(Equipment Quantity Conversion)](https://github.com/kenkenkengo0421/point_list_calc)
 >
 
+<br>
+<br>
+
+>### kaggle__機械学習(Machine Learning )
+>[銀行データセットを用いた二値分類(Binary Classification with a Bank Dataset)](https://github.com/kenkenkengo0421/Binary-Classification-with-a-Bank-Dataset)
 
 
 <br>
 <br>
 
->### webデザイン (HTML CSS webdesign practice)
+>### web制作 (HTML CSS webdesign practice)
 >
 >[サンプルページ(HTML CSS sample)](https://github.com/kenkenkengo0421/sample_html_css)
 >
