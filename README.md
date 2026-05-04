@@ -1,12 +1,17 @@
+
+
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=kenkenkengo0421)
 
 
 >
 ># ＰＲＯＦＩＬＥ
 >
+<br>
+<br>
 
-<br>
-<br>
+<img width="3584" height="1184" alt="top" src="https://github.com/user-attachments/assets/90bc6b16-4256-460d-9043-9a21ea2ddb23" />
+
 
 ![main_skills](https://img.shields.io/badge/main%20skills-a2a2ad)
 
