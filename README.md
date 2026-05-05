@@ -13,15 +13,16 @@
 
 
 
-![main_skills](https://img.shields.io/badge/main%20skills-a2a2ad)
+<br>
+<br>
 
 ![PLC](https://img.shields.io/badge/ddc-PLC_keyence-005571?style=for-the-badge&logo=probot&logoColor=white)
 ![PLC](https://img.shields.io/badge/ddc-PLC_Mitsubishi-ff500b?style=for-the-badge&logo=probot&logoColor=white)<br>
 
 <br>
-<br>
 
-![main_skills](https://img.shields.io/badge/sub%20skills-a2a2ad)
+
+
 
 [![My Skills](https://skillicons.dev/icons?i=windows,powershell,linux,mint,debian,neovim,py,git,github,gmail)](https://skillicons.dev)
 
