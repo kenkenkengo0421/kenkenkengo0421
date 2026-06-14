@@ -60,6 +60,12 @@
 >### kaggle__機械学習(Machine Learning )
 >[銀行データセットを用いた二値分類(Binary Classification with a Bank Dataset)](https://github.com/kenkenkengo0421/Binary-Classification-with-a-Bank-Dataset)
 
+<br>
+<br>
+
+>### データ分析系リポジトリ(Data Analytics Repository)
+>[README.md](https://github.com/kenkenkengo0421/data/blob/main/README.md)
+
 
 <br>
 <br>
