@@ -79,7 +79,7 @@
 <br>
 <br>
 
->### クラス_メソッド(myclass method)
+>### 自作クラス_メソッド(myclass method)
 >
 >[class method plcfb](https://github.com/kenkenkengo0421/mytool_PLC_CODE_/blob/main/README.md)
 
