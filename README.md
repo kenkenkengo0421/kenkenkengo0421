@@ -57,8 +57,10 @@
 <br>
 <br>
 
->### kaggle__機械学習(Machine Learning )
->[銀行データセットを用いた二値分類(Binary Classification with a Bank Dataset)](https://github.com/kenkenkengo0421/Binary-Classification-with-a-Bank-Dataset)
+>### 機械学習(Machine Learning )
+>[kaggle__銀行データセットを用いた二値分類(Binary Classification with a Bank Dataset)](https://github.com/kenkenkengo0421/Binary-Classification-with-a-Bank-Dataset)
+>
+>[SIGNATE__復刻版】SIGNATE Cup 2024](https://github.com/kenkenkengo0421/SIGNATECUP2024)
 
 <br>
 <br>
