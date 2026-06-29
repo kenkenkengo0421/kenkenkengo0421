@@ -74,7 +74,7 @@
 
 ---
 >### 自作のクラス_メソッド
-|名前|言語|リポジトリ|備考|
+|言語|名称|リポジトリ|備考|
 |-----|-----|-----|-----|
 |TypeScript|HTMLMOV|[myclass_method](https://github.com/kenkenkengo0421/myclass_method)|HTMLとtsの連携|
 
