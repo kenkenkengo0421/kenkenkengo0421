@@ -43,53 +43,45 @@
 
  ![](https://img.shields.io/badge/github-ＲＥＰＯＳＩＴＯＲＹ-a2a2ad?logo=github)
   
->### 自作ツール(Selfmade Tool)
->
->[計算色々](https://github.com/kenkenkengo0421/keisou-calc/blob/main/README.md)
->
->[露点温度計算(Dew Point Calculator)](https://github.com/kenkenkengo0421/dew-point-temperature)
->
->[エンタルピー計算(Enthalpy of moist air Calculator)](https://github.com/kenkenkengo0421/Enthalpy_of_moist_air-)
->
->[PID変換(Azbil to KV PID Converter)](https://github.com/kenkenkengo0421/azbil_to_keyence)
->
->[機器数量変換(Equipment Quantity Conversion)](https://github.com/kenkenkengo0421/point_list_calc)
->
+
+|試験用ツール|
+|-----|
+|https://kenkenkengo0421.github.io/mytesttool/|
 
 <br>
 <br>
 
->### 機械学習(Machine Learning )
->[kaggle__銀行データセットを用いた二値分類(Binary Classification with a Bank Dataset)](https://github.com/kenkenkengo0421/Binary-Classification-with-a-Bank-Dataset)
->
->[SIGNATE__復刻版】SIGNATE Cup 2024](https://github.com/kenkenkengo0421/SIGNATECUP2024)
+---
+>### 勉強中項目
+|名称|リポジトリ|
+|-----|-----|
+|kaggle|[銀行データセットを用いた二値分類](https://github.com/kenkenkengo0421/Binary-Classification-with-a-Bank-Dataset)|
+|SIGNATE|[SIGNATE__復刻版】SIGNATE Cup 2024](https://github.com/kenkenkengo0421/SIGNATECUP2024)|
+|分析データ|[調査中、調査結果](https://github.com/kenkenkengo0421/data/blob/main/README.md)|
 
 <br>
 <br>
 
->### データ分析系リポジトリ(Data Analytics Repository)
->[README.md](https://github.com/kenkenkengo0421/data/blob/main/README.md)
+
+|名称|リポジトリ|URL|
+|-----|-----|-----|
+|サンプルページ|[sample_html_css](https://github.com/kenkenkengo0421/sample_html_css)|[リンク先](https://kenkenkengo0421.github.io/sample_html_css/)|
+|Excel関数ページ|[excel](https://github.com/kenkenkengo0421/excel)|[リンク先](https://kenkenkengo0421.github.io/excel/)|
 
 
 <br>
 <br>
 
->### web制作 (HTML CSS webdesign practice)
->
->[サンプルページ(HTML CSS sample)](https://github.com/kenkenkengo0421/sample_html_css)
->
->[Excel関数ページ(excel function)](https://github.com/kenkenkengo0421/excel)
-
-<br>
-<br>
-
->### 自作クラス_メソッド(myclass method)
->
->[class method plcfb](https://github.com/kenkenkengo0421/mytool_PLC_CODE_/blob/main/README.md)
+---
+>### 自作のクラス_メソッド
+|名前|言語|リポジトリ|備考|
+|-----|-----|-----|-----|
+|TypeScript|HTMLMOV|[myclass_method](https://github.com/kenkenkengo0421/myclass_method)|HTMLとtsの連携|
 
 
 
 
 
-[...](https://github.com/kenkenkengo0421/reference_ja)
+
+[各言語、ライブラリの仕様など](https://github.com/kenkenkengo0421/reference_ja)
 
