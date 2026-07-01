@@ -4,9 +4,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=kenkenkengo0421)
 
 
->
-># ＰＲＯＦＩＬＥ
->
+<img width="1000" height="500" alt="Gemini_Generated_Image_pej8lcpej8lcpej8" src="https://github.com/user-attachments/assets/34fd3fea-b0d4-448f-bea4-42f082bc89ce" />
+
 <br>
 <br>
 
