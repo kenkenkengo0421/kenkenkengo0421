@@ -1,10 +1,14 @@
 
 
 
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=kenkenkengo0421)
 
 
-<img width="1000" height="500" alt="Gemini_Generated_Image_pej8lcpej8lcpej8" src="https://github.com/user-attachments/assets/34fd3fea-b0d4-448f-bea4-42f082bc89ce" />
+
+<img width="1000" height="500" alt="Gemini_Generated_Image_pmrnodpmrnodpmrn" src="https://github.com/user-attachments/assets/a792ed10-2ec7-4744-8ee1-ed998de37d3e" />
+
+
 
 <br>
 <br>
