@@ -2,6 +2,7 @@
 
 
 
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=kenkenkengo0421)
 
 
@@ -29,7 +30,7 @@
 ||
 |-----|
 |[![My Skills](https://skillicons.dev/icons?i=windows,powershell,linux,mint,debian)](https://skillicons.dev)|
-|[![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)|
+|[![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev) <img width="48" height="48" alt="jupyter" src="https://github.com/user-attachments/assets/4dea3c0a-797e-4eff-84d7-b2ccda7bcd86" />|
 |[![My Skills](https://skillicons.dev/icons?i=git,github,gmail)](https://skillicons.dev)|
 |[![My Skills](https://skillicons.dev/icons?i=py,css,html,ts,js)](https://skillicons.dev)|
 
