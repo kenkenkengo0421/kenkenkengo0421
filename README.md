@@ -66,7 +66,7 @@
 >### 勉強中項目
 |名称|リポジトリ|
 |-----|-----|
-|kaggle|[銀行データセットを用いた二値分類](https://github.com/kenkenkengo0421/Binary-Classification-with-a-Bank-Dataset)|
+|kaggle||
 |SIGNATE|[SIGNATE__復刻版】SIGNATE Cup 2024](https://github.com/kenkenkengo0421/SIGNATECUP2024)|
 |分析データ|[調査中、調査結果](https://github.com/kenkenkengo0421/data/blob/main/README.md)|
 
