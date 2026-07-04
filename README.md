@@ -6,7 +6,7 @@
 
 
 
-<img width="1000" height="500" alt="Gemini_Generated_Image_pmrnodpmrnodpmrn" src="https://github.com/user-attachments/assets/a792ed10-2ec7-4744-8ee1-ed998de37d3e" />
+<img width="500" height="250" alt="Gemini_Generated_Image_pmrnodpmrnodpmrn" src="https://github.com/user-attachments/assets/a792ed10-2ec7-4744-8ee1-ed998de37d3e" />
 
 
 
@@ -62,6 +62,11 @@
 |SIGNATE|[SIGNATE__復刻版】SIGNATE Cup 2024](https://github.com/kenkenkengo0421/SIGNATECUP2024)|
 |分析データ|[調査中、調査結果](https://github.com/kenkenkengo0421/data/blob/main/README.md)|
 
+
+<img width="500" height="250" alt="Gemini_Generated_Image_pej8lcpej8lcpej8" src="https://github.com/user-attachments/assets/20159b58-bbba-434d-952e-56bd18bdabf0" />
+
+
+
 <br>
 <br>
 
@@ -82,6 +87,8 @@
 |TypeScript|HTMLMOV|[myclass_method](https://github.com/kenkenkengo0421/myclass_method)|HTMLとtsの連携|
 
 
+
+<img width="500" height="250" alt="Gemini_Generated_Image_nuxgdsnuxgdsnuxg" src="https://github.com/user-attachments/assets/3dfcace2-5f79-4ab4-ba26-56d42fde991f" />
 
 
 
