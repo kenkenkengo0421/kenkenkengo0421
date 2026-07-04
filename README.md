@@ -30,7 +30,7 @@
 ||
 |-----|
 |[![My Skills](https://skillicons.dev/icons?i=windows,powershell,linux,mint,debian)](https://skillicons.dev)|
-|[![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev) <img width="48" height="48" alt="jupyter" src="https://github.com/user-attachments/assets/4dea3c0a-797e-4eff-84d7-b2ccda7bcd86" />|
+|[![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev) <img width="48" height="50" alt="Jupyter_logo 1" src="https://github.com/user-attachments/assets/231789e0-b9f6-4c05-8012-d787fbef0324" />|
 |[![My Skills](https://skillicons.dev/icons?i=git,github,gmail)](https://skillicons.dev)|
 |[![My Skills](https://skillicons.dev/icons?i=py,css,html,ts,js)](https://skillicons.dev)|
 
@@ -47,13 +47,17 @@
 <br>
 
 
+![](https://img.shields.io/badge/github-ＲＥＰＯＳＩＴＯＲＹ-a2a2ad?logo=github)
 
- ![](https://img.shields.io/badge/github-ＲＥＰＯＳＩＴＯＲＹ-a2a2ad?logo=github)
+---
+
+
+ 
   
 
-|試験用ツール|
-|-----|
-|https://kenkenkengo0421.github.io/mytesttool/|
+|名称|URL|
+|-----|-----|
+|テスト用ツール|https://kenkenkengo0421.github.io/mytesttool/|
 
 <br>
 <br>
