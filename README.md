@@ -20,8 +20,6 @@
 <br>
 <br>
 
-![PLC](https://img.shields.io/badge/ddc-PLC_keyence-005571?style=for-the-badge&logo=probot&logoColor=white)
-![PLC](https://img.shields.io/badge/ddc-PLC_Mitsubishi-ff500b?style=for-the-badge&logo=probot&logoColor=white)<br>
 
 <br>
 
@@ -33,6 +31,8 @@
 |[![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev) <img width="48" height="50" alt="Jupyter_logo 1" src="https://github.com/user-attachments/assets/231789e0-b9f6-4c05-8012-d787fbef0324" />|
 |[![My Skills](https://skillicons.dev/icons?i=git,github,gmail)](https://skillicons.dev)|
 |[![My Skills](https://skillicons.dev/icons?i=py,css,html,ts,js)](https://skillicons.dev)|
+|<img width="50" height="50" alt="Gemini_Generated_Image_vmvc0avmvc0avmvc" src="https://github.com/user-attachments/assets/d184276b-3f0a-4e2c-9064-8582f4000a61" />|
+
 
 
 <br>
