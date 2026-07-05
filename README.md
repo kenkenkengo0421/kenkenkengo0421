@@ -66,9 +66,10 @@
 >### 勉強中項目
 |名称|リポジトリ|
 |-----|-----|
-|kaggle||
 |SIGNATE|[SIGNATE__復刻版】SIGNATE Cup 2024](https://github.com/kenkenkengo0421/SIGNATECUP2024)|
 |分析データ|[調査中、調査結果](https://github.com/kenkenkengo0421/data/blob/main/README.md)|
+|湿り空気線図、空調について||
+|kaggle||
 
 
 <img width="500" height="250" alt="Gemini_Generated_Image_92s6v792s6v792s6" src="https://github.com/user-attachments/assets/48753ef0-94b5-4222-9ebf-f0089ff76373" />
