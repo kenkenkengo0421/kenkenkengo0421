@@ -13,12 +13,6 @@
 |[![My Skills](https://skillicons.dev/icons?i=git,github,gmail)](https://skillicons.dev)|
 
 
-
-
-<br>
-<br>
-
-
 ![](https://img.shields.io/badge/github-ＲＥＰＯＳＩＴＯＲＹ-a2a2ad?logo=github)
 
 ---
