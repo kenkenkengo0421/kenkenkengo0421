@@ -71,7 +71,7 @@
 |分析データ|[調査中、調査結果](https://github.com/kenkenkengo0421/data/blob/main/README.md)|
 
 
-<img width="500" height="250" alt="Gemini_Generated_Image_pej8lcpej8lcpej8" src="https://github.com/user-attachments/assets/20159b58-bbba-434d-952e-56bd18bdabf0" />
+<img width="500" height="250" alt="Gemini_Generated_Image_92s6v792s6v792s6" src="https://github.com/user-attachments/assets/48753ef0-94b5-4222-9ebf-f0089ff76373" />
 
 
 
