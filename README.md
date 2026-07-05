@@ -68,7 +68,7 @@
 |-----|-----|
 |SIGNATE挑戦中コンペ|[SIGNATE__復刻版】SIGNATE Cup 2024](https://github.com/kenkenkengo0421/SIGNATECUP2024)|
 |Kaggle挑戦中コンペ||
-|湿り空気線図、空調について||
+|湿り空気線図、空調について|[learning](https://github.com/kenkenkengo0421/learning)|
 |分析データ|[調査中、調査結果](https://github.com/kenkenkengo0421/data/blob/main/README.md)|
 
 
