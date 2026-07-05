@@ -8,8 +8,8 @@
 ||
 |-----|
 |[![My Skills](https://skillicons.dev/icons?i=windows,powershell,linux,mint,debian)](https://skillicons.dev)|
-|<img width="50" height="50" alt="スクリーンショット 2026-07-04 173329" src="https://github.com/user-attachments/assets/334104cb-d7d1-469c-9602-25a49a613fbc" /> [![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)|
-|<img width="50" height="50" alt="Gemini_Generated_Image_vmvc0avmvc0avmvc" src="https://github.com/user-attachments/assets/d184276b-3f0a-4e2c-9064-8582f4000a61" /> [![My Skills](https://skillicons.dev/icons?i=py,css,html,ts,js)](https://skillicons.dev) |
+|[![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)|
+|[![My Skills](https://skillicons.dev/icons?i=py,css,html,ts,js)](https://skillicons.dev) |
 |[![My Skills](https://skillicons.dev/icons?i=git,github,gmail)](https://skillicons.dev)|
 
 
