@@ -1,3 +1,4 @@
+<img width="1280" height="500" alt="Group 9" src="https://github.com/user-attachments/assets/f5e3cf08-1ff5-4959-9069-397e3e9da150" />
 
 
 
