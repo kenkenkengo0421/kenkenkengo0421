@@ -1,7 +1,4 @@
-<img width="1280" height="500" alt="Group 9" src="https://github.com/user-attachments/assets/f5e3cf08-1ff5-4959-9069-397e3e9da150" />
-
-
-
+<img width="1280" height="500" alt="MacBook Air - 1" src="https://github.com/user-attachments/assets/a9e0cdd9-6c3a-4c3f-bc7f-d3f2c9c2ee17" />
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kenkenkengo0421)
