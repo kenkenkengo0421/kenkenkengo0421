@@ -25,7 +25,8 @@
 
  
   
->### テストツール
+### テストツール
+
 
 |名称|URL|リポジトリ|
 |-----|-----|-----|
@@ -50,9 +51,9 @@
 <br>
 
 ---
->### 勉強中項目
+### 勉強中項目
 
-* 技術的な事
+<details open><summary>技術的な事</summary>
 
 |名称|リポジトリ|
 |-----|-----|
@@ -62,23 +63,25 @@
 |数学、数式について|[機械学習などに伴う数学、数式まとめ](https://github.com/kenkenkengo0421/learning-math/tree/main)|
 |分析データ|[調査中、調査結果](https://github.com/kenkenkengo0421/data/blob/main/README.md)|
 
+</details>
 
 <br>
 <br>
 
-* デザイン
+<details open><summary>デザイン</summary>
   
 |名称|リポジトリ|URL|
 |-----|-----|-----|
 |サンプルページ|[sample_html_css](https://github.com/kenkenkengo0421/sample_html_css)|[リンク先](https://kenkenkengo0421.github.io/sample_html_css/)|
 |Excel関数ページ|[excel](https://github.com/kenkenkengo0421/excel)|[リンク先](https://kenkenkengo0421.github.io/excel/)|
 
+</details>
 
 <br>
 <br>
 
 ---
->### 自作のクラス_メソッド
+### 自作のクラス_メソッド
 |言語|名称|リポジトリ|備考|
 |-----|-----|-----|-----|
 |TypeScript|HTMLMOV|[myclass_method](https://github.com/kenkenkengo0421/myclass_method)|HTMLとtsの連携|
