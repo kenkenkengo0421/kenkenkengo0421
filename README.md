@@ -44,6 +44,9 @@
 
 ---
 >### 勉強中項目
+
+* 技術的な事
+
 |名称|リポジトリ|
 |-----|-----|
 |SIGNATE挑戦中コンペ|[SIGNATE__復刻版】SIGNATE Cup 2024](https://github.com/kenkenkengo0421/SIGNATECUP2024)|
@@ -56,7 +59,8 @@
 <br>
 <br>
 
-
+* デザイン
+  
 |名称|リポジトリ|URL|
 |-----|-----|-----|
 |サンプルページ|[sample_html_css](https://github.com/kenkenkengo0421/sample_html_css)|[リンク先](https://kenkenkengo0421.github.io/sample_html_css/)|
