@@ -74,6 +74,7 @@
 |-----|-----|-----|
 |サンプルページ|[sample_html_css](https://github.com/kenkenkengo0421/sample_html_css)|[リンク先](https://kenkenkengo0421.github.io/sample_html_css/)|
 |Excel関数ページ|[excel](https://github.com/kenkenkengo0421/excel)|[リンク先](https://kenkenkengo0421.github.io/excel/)|
+|カラーとデザイン|[design](https://github.com/kenkenkengo0421/design)||
 
 </details>
 
