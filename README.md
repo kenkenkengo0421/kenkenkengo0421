@@ -32,7 +32,7 @@
 |-----|-----|-----|
 |テスト用ツール|https://kenkenkengo0421.github.io/mytesttool/|[mytesttool](https://github.com/kenkenkengo0421/mytesttool)|
 
-<details open><summary>各ツール</summary>
+<details><summary>各ツール</summary>
 
 |ツール名称|リポジトリ|
 |-----|-----|
@@ -53,7 +53,7 @@
 ---
 ### 勉強中項目
 
-<details open><summary>技術的な事</summary>
+<details><summary>技術的な事</summary>
 
 |名称|リポジトリ|
 |-----|-----|
@@ -68,7 +68,7 @@
 <br>
 <br>
 
-<details open><summary>デザイン</summary>
+<details><summary>デザイン</summary>
   
 |名称|リポジトリ|URL|
 |-----|-----|-----|
@@ -83,11 +83,14 @@
 
 ---
 ### 自作のクラス_メソッド
+
+<details><summary>デザイン</summary>
+
 |言語|名称|リポジトリ|備考|
 |-----|-----|-----|-----|
 |TypeScript|HTMLMOV|[myclass_method](https://github.com/kenkenkengo0421/myclass_method)|HTMLとtsの連携|
 
-
+</details>
 
 [各言語、ライブラリの仕様など](https://github.com/kenkenkengo0421/reference_ja)
 
