@@ -57,8 +57,8 @@
 
 |名称|リポジトリ|
 |-----|-----|
+|Kaggle挑戦中コンペ|[Predicting-Student-Health-Risk](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk)|
 |SIGNATE挑戦中コンペ|[SIGNATE__復刻版】SIGNATE Cup 2024](https://github.com/kenkenkengo0421/SIGNATECUP2024)|
-|Kaggle挑戦中コンペ||
 |湿り空気線図、空調について|[空気調和機、熱源廻りまとめ](https://github.com/kenkenkengo0421/learning)|
 |数学、数式について|[機械学習などに伴う数学、数式まとめ](https://github.com/kenkenkengo0421/learning-math/tree/main)|
 |分析データ|[調査中、調査結果](https://github.com/kenkenkengo0421/data/blob/main/README.md)|
