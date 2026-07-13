@@ -7,7 +7,6 @@
 
 
 
-<img width="1280" height="320" alt="Group 9" src="https://github.com/user-attachments/assets/9c6a163f-761b-4f8a-9331-a3985c71398c" />
 
 
 ||
