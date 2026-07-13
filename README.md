@@ -52,7 +52,7 @@
 ---
 ### 勉強中項目
 
-<details><summary>技術的な事</summary>
+
 
 |名称|リポジトリ|
 |-----|-----|
@@ -62,12 +62,12 @@
 |数学、数式について|[機械学習などに伴う数学、数式まとめ](https://github.com/kenkenkengo0421/learning-math/tree/main)|
 |分析データ|[調査中、調査結果](https://github.com/kenkenkengo0421/data/blob/main/README.md)|
 
-</details>
+
 
 <br>
 <br>
 
-<details><summary>デザイン</summary>
+
   
 |名称|リポジトリ|URL|
 |-----|-----|-----|
@@ -75,7 +75,7 @@
 |Excel関数ページ|[excel](https://github.com/kenkenkengo0421/excel)|[リンク先](https://kenkenkengo0421.github.io/excel/)|
 |カラーとデザイン|[design](https://github.com/kenkenkengo0421/design)||
 
-</details>
+
 
 <br>
 <br>
@@ -83,13 +83,13 @@
 ---
 ### 自作のクラス_メソッド
 
-<details><summary>デザイン</summary>
+
 
 |言語|名称|リポジトリ|備考|
 |-----|-----|-----|-----|
 |TypeScript|HTMLMOV|[myclass_method](https://github.com/kenkenkengo0421/myclass_method)|HTMLとtsの連携|
 
-</details>
+
 
 [各言語、ライブラリの仕様など](https://github.com/kenkenkengo0421/reference_ja)
 
