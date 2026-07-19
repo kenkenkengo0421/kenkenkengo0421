@@ -81,8 +81,8 @@
 
 |言語|名称|リポジトリ|備考|
 |-----|-----|-----|-----|
-|TypeScript|HTMLMOV|[HTMLMOV](https://github.com/kenkenkengo0421/HTMLMOV)|HTMLとtsの受け渡し、コード簡略化|
-|Python|my_plot|[my_plt_class](https://github.com/kenkenkengo0421/my_plt_class)|分析用のグラフ描画、コード簡略化|
+|TypeScript|HTMLMOV|[Class_HTMLMOV](https://github.com/kenkenkengo0421/Class_HTMLMOV)|HTMLとtsの受け渡し、コード簡略化|
+|Python|my_plot|[Class_my_plt](https://github.com/kenkenkengo0421/Class_my_plt)|分析用のグラフ描画、コード簡略化|
 
 
 ---
