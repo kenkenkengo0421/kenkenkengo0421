@@ -67,7 +67,7 @@
   
 |名称|リポジトリ|URL|
 |-----|-----|-----|
-|サンプルページ|[sample_html_css](https://github.com/kenkenkengo0421/sample_html_css)|[リンク先](https://kenkenkengo0421.github.io/sample_html_css/)|
+|サンプルページ|[Learn_website_html_css](https://github.com/kenkenkengo0421/Learn_website_html_css)|[リンク先](https://kenkenkengo0421.github.io/Learn_website_html_css/)|
 |カラーとデザイン|[Learn_design](https://github.com/kenkenkengo0421/Learn_design)||
 
 
