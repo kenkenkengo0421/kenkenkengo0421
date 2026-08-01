@@ -55,8 +55,8 @@
 
 |名称|リポジトリ|
 |-----|-----|
-|Kaggle挑戦中コンペ|[Predicting-Student-Health-Risk](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk)|
-|SIGNATE挑戦中コンペ|[SIGNATE__復刻版】SIGNATE Cup 2024](https://github.com/kenkenkengo0421/SIGNATECUP2024)|
+|Kaggle|[Predicting-Student-Health-Risk](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk)|
+|Kaggle|[Kaggriculture](https://github.com/kenkenkengo0421/Kaggriculture)|
 |湿り空気線図、空調について|[空気調和機、熱源廻りまとめ](https://github.com/kenkenkengo0421/learning)|
 
 
