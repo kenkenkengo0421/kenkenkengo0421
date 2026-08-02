@@ -57,7 +57,7 @@
 |-----|-----|
 |Kaggle|[Predicting-Student-Health-Risk](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk)|
 |Kaggle|[Kaggriculture](https://github.com/kenkenkengo0421/Kaggriculture)|
-|湿り空気線図、空調について|[空気調和機、熱源廻りまとめ](https://github.com/kenkenkengo0421/learning)|
+|湿り空気線図、空調について|[空気調和機、熱源廻りまとめ](https://zenn.dev/ken_0421)|
 
 
 
