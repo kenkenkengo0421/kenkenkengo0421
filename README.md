@@ -9,12 +9,12 @@
 
 
 
-||
-|-----|
-|[![My Skills](https://skillicons.dev/icons?i=windows,powershell,linux,mint,debian)](https://skillicons.dev)|
-|[![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)|
-|[![My Skills](https://skillicons.dev/icons?i=py,css,html,ts,js)](https://skillicons.dev) |
-|[![My Skills](https://skillicons.dev/icons?i=git,github,gmail)](https://skillicons.dev)|
+
+
+[![My Skills](https://skillicons.dev/icons?i=windows,powershell,linux,mint,debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,css,html,ts,js)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,github,gmail)](https://skillicons.dev)
 
 
 
