@@ -5,7 +5,7 @@
 
 
 
-
+### [Zenn:👨‍🔧](https://zenn.dev/ken_0421)
 
 
 
@@ -24,14 +24,14 @@
 
  
   
-### テストツール
+### テストツール🔧
 
 
 |名称|URL|リポジトリ|
 |-----|-----|-----|
 |テスト用ツール|https://kenkenkengo0421.github.io/mytesttool/|[mytesttool](https://github.com/kenkenkengo0421/mytesttool)|
 
-<details><summary>各ツール</summary>
+👇各ツールリポジトリ👇
 
 |ツール名称|リポジトリ|
 |-----|-----|
@@ -44,24 +44,26 @@
 |キーエンス製PLCポイント～機器数量変換|[point_list_calc](https://github.com/kenkenkengo0421/point_list_calc)|
 |Excel関数（使いそうなものだけ）|[excel](https://github.com/kenkenkengo0421/excel)|
 
-</details>
+
 
 
 
 ---
-### 勉強中項目
+### Kaggle🦆🦆📚
 
 
 
-|名称|リポジトリ|
-|-----|-----|
-|Kaggle|[Predicting-Student-Health-Risk](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk)|
-|Kaggle|[Kaggriculture](https://github.com/kenkenkengo0421/Kaggriculture)|
-|湿り空気線図、空調について|[空気調和機、熱源廻りまとめ](https://zenn.dev/ken_0421)|
+|URL|リポジトリ|備考|
+|-----|-----|-----|
+|[📖](https://www.kaggle.com/competitions/kaggriculture)|[Kaggriculture](https://github.com/kenkenkengo0421/Kaggriculture)|現在挑戦中|
+|[📖](https://www.kaggle.com/competitions/playground-series-s6e7)|[Predicting-Student-Health-Risk](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk)|最終結果1623/3355　top49%|
 
 
 
 
+
+---
+### デザイン📝色見本等
 
   
 |名称|リポジトリ|URL|
