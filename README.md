@@ -5,7 +5,7 @@
 
 
 
-### [Zenn:👨‍🔧](https://zenn.dev/ken_0421)
+### [Zenn_URL:👨‍🔧📝](https://zenn.dev/ken_0421)
 
 
 
@@ -27,9 +27,9 @@
 ### テストツール🔧
 
 
-|名称|URL|リポジトリ|
+|名称|リポジトリ|URL|
 |-----|-----|-----|
-|テスト用ツール|https://kenkenkengo0421.github.io/mytesttool/|[mytesttool](https://github.com/kenkenkengo0421/mytesttool)|
+|テスト用ツール|[mytesttool](https://github.com/kenkenkengo0421/mytesttool)|[📖](https://kenkenkengo0421.github.io/mytesttool/)|
 
 👇各ツールリポジトリ👇
 
@@ -53,10 +53,10 @@
 
 
 
-|URL|リポジトリ|備考|
+|リポジトリ|備考|URL|
 |-----|-----|-----|
-|[📖](https://www.kaggle.com/competitions/kaggriculture)|[Kaggriculture](https://github.com/kenkenkengo0421/Kaggriculture)|現在挑戦中|
-|[📖](https://www.kaggle.com/competitions/playground-series-s6e7)|[Predicting-Student-Health-Risk](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk)|最終結果1623/3355　top49%|
+|[Kaggriculture](https://github.com/kenkenkengo0421/Kaggriculture)|現在挑戦中|[📖](https://www.kaggle.com/competitions/kaggriculture)|
+|[Predicting-Student-Health-Risk](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk)|最終結果1623/3355　top49%|[📖](https://www.kaggle.com/competitions/playground-series-s6e7)
 
 
 
@@ -68,14 +68,14 @@
   
 |名称|リポジトリ|URL|
 |-----|-----|-----|
-|サンプルページ|[Learn_website_html_css](https://github.com/kenkenkengo0421/Learn_website_html_css)|[リンク先](https://kenkenkengo0421.github.io/Learn_website_html_css/)|
+|サンプルページ|[Learn_website_html_css](https://github.com/kenkenkengo0421/Learn_website_html_css)|[📖](https://kenkenkengo0421.github.io/Learn_website_html_css/)|
 |カラーとデザイン|[Learn_design](https://github.com/kenkenkengo0421/Learn_design)||
 
 
 
 
 ---
-### 自作のクラス_メソッド
+### 自作のクラス_メソッド📊
 
 
 
@@ -87,5 +87,5 @@
 
 ---
 ### 各言語仕様、ブックマーク
-[☆☆☆☆☆☆☆☆](https://github.com/kenkenkengo0421/reference_ja)
+[🐍🐼](https://github.com/kenkenkengo0421/reference_ja)
 
