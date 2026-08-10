@@ -69,6 +69,7 @@
 |-----|-----|-----|-----|
 |TypeScript|**HTMLMOV**|[Class_HTMLMOV](https://github.com/kenkenkengo0421/Class_HTMLMOV)|HTMLとtsの受け渡し、コード簡略化|
 |Python|**my_plot**|[Class_my_plt](https://github.com/kenkenkengo0421/Class_my_plt)|分析用のグラフ描画、コード簡略化|
+|Python|**Kaggriculture_Movements_in_the_top_xx%**|[split_zip_file,dir_to_strong,kaggriculture_df](https://github.com/kenkenkengo0421/Kaggriculture/blob/main/Kaggriculture_Movements_in_the_top_xx%25/column.md)|コンペKaggricultureのjson解析<br>上位xx%だけ抽出<br>dfに変換|
 
 
 ---
