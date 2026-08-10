@@ -60,20 +60,6 @@
 
 
 
-
-
----
-### デザイン📝色見本等
-
-  
-|名称|リポジトリ|URL|
-|-----|-----|-----|
-|**サンプルページ**|[Learn_website_html_css](https://github.com/kenkenkengo0421/Learn_website_html_css)|[📖](https://kenkenkengo0421.github.io/Learn_website_html_css/)|
-|**カラーとデザイン**|[Learn_design](https://github.com/kenkenkengo0421/Learn_design)||
-
-
-
-
 ---
 ### 自作のクラス_メソッド📊
 
