@@ -5,7 +5,7 @@
 
 
 
-### [Zenn_URL:👨‍🔧📝](https://zenn.dev/ken_0421)
+
 
 
 
@@ -60,9 +60,5 @@
 
 
 
-
-
 ---
-### 各言語仕様、ブックマーク
-[📚📚📚📚📚](https://github.com/kenkenkengo0421/reference_ja)
-
+### [Zenn_URL:👨‍🔧📝](https://zenn.dev/ken_0421)
