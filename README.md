@@ -33,6 +33,8 @@
 
 **各ツールリポジトリ**
 
+<details><summary>リスト</summary> 
+
 |ツール名称|リポジトリ|
 |-----|-----|
 |**空気線図関連計算**|[keisou-calc](https://github.com/kenkenkengo0421/keisou-calc)|
@@ -44,7 +46,7 @@
 |**キーエンス製PLCポイント～機器数量変換**|[point_list_calc](https://github.com/kenkenkengo0421/point_list_calc)|
 |**Excel関数（使いそうなものだけ）**|[excel](https://github.com/kenkenkengo0421/excel)|
 
-
+</details>
 
 
 
