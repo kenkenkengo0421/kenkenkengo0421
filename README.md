@@ -63,5 +63,4 @@
 
 
 
----
-### [Zenn_URL:👨‍🔧📝](https://zenn.dev/ken_0421)
+
