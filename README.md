@@ -57,8 +57,8 @@
 
 |リポジトリ|備考|URL|
 |-----|-----|-----|
-|[Muscle Architecture in Ultrasound Data](https://github.com/kenkenkengo0421/Muscle_Architecture_in_Ultrasound_Data)||[📖](https://www.kaggle.com/competitions/umud-challenge-muscle-architecture-in-ultrasound-data)|
-|[Kaggriculture](https://github.com/kenkenkengo0421/Kaggriculture)|**現在挑戦中**|[📖](https://www.kaggle.com/competitions/kaggriculture)|
+|[Muscle Architecture in Ultrasound Data](https://github.com/kenkenkengo0421/Muscle_Architecture_in_Ultrasound_Data)|**出場中**|[📖](https://www.kaggle.com/competitions/umud-challenge-muscle-architecture-in-ultrasound-data)|
+|[Kaggriculture](https://github.com/kenkenkengo0421/Kaggriculture)|**出場中**|[📖](https://www.kaggle.com/competitions/kaggriculture)|
 |[Predicting-Student-Health-Risk](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk)|**最終結果1623/3355　top49%**|[📖](https://www.kaggle.com/competitions/playground-series-s6e7)
 
 
