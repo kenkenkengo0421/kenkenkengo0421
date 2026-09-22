@@ -26,7 +26,6 @@
   
 ### テストツール
 
-
 |名称|リポジトリ|URL|
 |-----|-----|-----|
 |**テスト用ツール**|[mytesttool](https://github.com/kenkenkengo0421/mytesttool)|[📖](https://kenkenkengo0421.github.io/mytesttool/)|
@@ -57,9 +56,9 @@
 
 |リポジトリ|備考|URL|
 |-----|-----|-----|
-|[Muscle Architecture in Ultrasound Data](https://github.com/kenkenkengo0421/Muscle_Architecture_in_Ultrasound_Data)|**出場中**|[📖](https://www.kaggle.com/competitions/umud-challenge-muscle-architecture-in-ultrasound-data)|
-|[Kaggriculture](https://github.com/kenkenkengo0421/Kaggriculture)|**出場中**|[📖](https://www.kaggle.com/competitions/kaggriculture)|
-|[Predicting-Student-Health-Risk](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk)|**最終結果1623/3355　top49%**|[📖](https://www.kaggle.com/competitions/playground-series-s6e7)
+|[Muscle Architecture in Ultrasound Data](https://github.com/kenkenkengo0421/Muscle_Architecture_in_Ultrasound_Data)|画像認識, 筋肉, 超音波写真|[📖](https://www.kaggle.com/competitions/umud-challenge-muscle-architecture-in-ultrasound-data)|
+|[Kaggriculture](https://github.com/kenkenkengo0421/Kaggriculture)|シミュレーション, 農業|[📖](https://www.kaggle.com/competitions/kaggriculture)|
+|[Predicting-Student-Health-Risk](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk)|テーブル, 多値分類, 学生の健康リスク|[📖](https://www.kaggle.com/competitions/playground-series-s6e7)
 
 
 
