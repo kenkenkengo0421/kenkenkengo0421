@@ -56,6 +56,8 @@
 
 |リポジトリ|備考|URL|
 |-----|-----|-----|
+|[**kaggle repo**](https://github.com/kenkenkengo0421/kaggle)|**kaggleを始める**||
+||||
 |[Muscle Architecture in Ultrasound Data](https://github.com/kenkenkengo0421/Muscle_Architecture_in_Ultrasound_Data)|画像認識, 筋肉, 超音波写真|[📖](https://www.kaggle.com/competitions/umud-challenge-muscle-architecture-in-ultrasound-data)|
 |[Kaggriculture](https://github.com/kenkenkengo0421/Kaggriculture)|シミュレーション, 農業|[📖](https://www.kaggle.com/competitions/kaggriculture)|
 |[Predicting-Student-Health-Risk](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk)|テーブル, 多値分類, 学生の健康リスク|[📖](https://www.kaggle.com/competitions/playground-series-s6e7)
