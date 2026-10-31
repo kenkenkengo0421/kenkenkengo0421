@@ -41,6 +41,7 @@
 |**湿り空気のエンタルピー(テーテンス式)**|[Enthalpy_of_moist_air](https://github.com/kenkenkengo0421/Enthalpy_of_moist_air)|
 |**各進数変換**|[sinsu](https://github.com/kenkenkengo0421/sinsu)|
 |**温度～抵抗変換**|[pt_to_temp](https://github.com/kenkenkengo0421/pt_to_temp)|
+|**温度〜信号変換**|[sig_temp](https://github.com/kenkenkengo0421/sig_temp)|
 |**azbil～キーエンス製PLCのPID変換**|[azbil_to_keyence](https://github.com/kenkenkengo0421/azbil_to_keyence)|
 |**キーエンス製PLCポイント～機器数量変換**|[point_list_calc](https://github.com/kenkenkengo0421/point_list_calc)|
 |**Excel関数（使いそうなものだけ）**|[excel](https://github.com/kenkenkengo0421/excel)|
